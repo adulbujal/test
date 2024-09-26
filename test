@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selamat Ulang Tahun!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8e1e1;
+            color: #333;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #d63384;
+        }
+        .cake {
+            width: 200px;
+            margin: 20px auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Selamat Ulang Tahun!</h1>
+    <p>Semoga semua harapan dan impianmu menjadi kenyataan.</p>
+    <img src="https://example.com/cake.png" alt="Kue Ulang Tahun" class="cake">
+    <p>Selamat merayakan hari istimewa ini!</p>
+</body>
+</html>
